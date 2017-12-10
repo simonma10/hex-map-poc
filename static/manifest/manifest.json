@@ -1,0 +1,26 @@
+{
+  "images":[
+    {"key": "tetris1", "path": "static/images/tetrisblock1.png"},
+    {"key": "tetris2", "path": "static/images/tetrisblock2.png"},
+    {"key": "tetris3", "path": "static/images/tetrisblock3.png"},
+    {"key": "hotdog", "path": "static/images/hotdog.png"},
+    {"key": "deep-space", "path": "static/images/deep-space.jpg"},
+    {"key": "black128px", "path": "static/images/black128px.png"},
+    {"key": "blue64px", "path": "static/images/blue64px.png"},
+    {"key": "cross64", "path": "static/images/cross64.png"},
+    {"key": "green64px", "path": "static/images/green64px.png"},
+    {"key": "orange64px", "path": "static/images/orange64px.png"},
+    {"key": "rectangles", "path": "static/images/rectangles.png"},
+    {"key": "red64px", "path": "static/images/red64px.png"},
+    {"key": "redCircle96", "path": "static/images/redCircle96.png"},
+    {"key": "redStar96", "path": "static/images/redStar96.png"},
+    {"key": "white640", "path": "static/images/white640x640.png"},
+    {"key": "tick64", "path": "static/images/tick64.png"},
+    {"key": "yellow64px", "path": "static/images/yellow64px.png"}
+  ],
+  "spritesheets":[
+      {"key": "flareBlue", "path": "static/spritesheets/flareblue16.png", "frameWidth": 256, "frameHeight": 256, "frameMax":16 },
+      {"key": "buttonSpriteSheet", "path": "static/spritesheets/button_sprite_sheet.png", "frameWidth": 193, "frameHeight": 71, "frameMax":16 }
+  ]
+
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+/node_modules/
+.idea/modules.xml
+.idea/phaser-webpack.iml
+.idea/workspace.xml
+
+.idea/markdown-navigator/
+.idea/zzzmisc.xml
+.idea/zzzwatcherTasks.xml
+static/assets/

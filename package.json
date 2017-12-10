@@ -1,0 +1,31 @@
+{
+  "name": "hex-map-poc",
+  "version": "0.0.1",
+  "description": "Basic Phaser CE and Webpack boilerplate",
+  "author": "Simon Martin",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "prod": "webpack --config webpack.production.config.js",
+    "test": "eslint ./src/**/**.js"
+  },
+ 
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^1.2.0",
+
+    "expose-loader": "^0.7.3",
+    "webpack": "^2.5.1"
+  },
+  "dependencies": {
+    "phaser-ce": "^2.9.1",
+    "webfontloader": "^1.6.27"
+  }
+}
+
